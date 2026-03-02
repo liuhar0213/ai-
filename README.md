@@ -1,6 +1,7 @@
 # Awesome AI Frontier Projects
 
-> Auto-curated high-value AI projects (updated: 2026-03-02 09:07)
+> Auto-curated high-value AI projects (updated: 2026-03-02 09:09)
+> Ranking: score descending
 
 ## Contents
 - [Quant Track](#quant-track)
