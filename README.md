@@ -8,14 +8,14 @@
 5. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - opp 106.11 (do_now)
 
 ### Burst Alerts
-1. [multica-ai/multica](https://github.com/multica-ai/multica) - sig 2, scoreΔ 2.92, starΔ 500.0
-2. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - sig 2, scoreΔ 0.1, starΔ 41.0
-3. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - sig 2, scoreΔ 0.08, starΔ 58.0
+1. [multica-ai/multica](https://github.com/multica-ai/multica) - sig 2, scoreΔ 2.91, starΔ 497.0
+2. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - sig 2, scoreΔ 0.1, starΔ 58.0
+3. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - sig 2, scoreΔ 0.08, starΔ 72.0
 
 
 # Awesome AI Frontier Projects
 
-> Auto-curated high-value AI projects (updated: 2026-04-11 20:46)
+> Auto-curated high-value AI projects (updated: 2026-04-11 21:12)
 > Ranking: score descending
 > Category assignment: weighted keyword matching
 
@@ -26,57 +26,57 @@
 ## Quant Track
 
 ### Quant / Data
-1. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (⭐ 65699, score 108.9)
+1. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (⭐ 65702, score 108.9)
 
 ### Quant / Execution
-1. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading" (⭐ 13001, score 105.78)
-2. [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. (⭐ 13292, score 104.73)
+1. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading" (⭐ 13015, score 105.78)
+2. [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. (⭐ 13291, score 104.73)
 3. [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents (⭐ 31618, score 94.6)
-4. [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view (⭐ 16129, score 91.37)
+4. [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view (⭐ 16130, score 91.37)
 5. [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. (⭐ 5439, score 73.32)
 
 ### Quant / General
 1. [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. (⭐ 7656, score 87.9)
 
 ### Quant / Research
-1. [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. (⭐ 40560, score 88.44)
+1. [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. (⭐ 40561, score 88.44)
 
 ## Productivity Track
 
 ### Productivity / Browser Agent
-1. [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods (⭐ 34327, score 93.92)
+1. [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods (⭐ 34332, score 93.92)
 2. [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) (⭐ 25888, score 93.84)
 
 ### Productivity / Framework
 1. [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents. (⭐ 17821, score 93.6)
 
 ### Productivity / General
-1. [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. (⭐ 29309, score 95.33)
-2. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (⭐ 24992, score 93.89)
-3. [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (⭐ 8900, score 93.89)
-4. [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (⭐ 51580, score 93.71)
-5. [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (⭐ 21191, score 93.71)
+1. [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. (⭐ 29310, score 95.33)
+2. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (⭐ 25011, score 93.92)
+3. [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust (⭐ 8902, score 93.89)
+4. [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (⭐ 51604, score 93.71)
+5. [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (⭐ 21192, score 93.71)
 6. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data (⭐ 38954, score 93.7)
 7. [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️ (⭐ 14625, score 93.67)
 8. [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. (⭐ 35510, score 93.65)
-9. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs. (⭐ 20535, score 93.57)
+9. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs. (⭐ 20555, score 93.57)
 10. [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. (⭐ 27734, score 93.56)
-11. [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 (⭐ 12644, score 93.51)
+11. [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 (⭐ 12645, score 93.51)
 
 ### Productivity / Memory & RAG
 1. [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time. (⭐ 21989, score 95.1)
-2. [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (⭐ 52635, score 94.62)
-3. [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (⭐ 26463, score 94.46)
+2. [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (⭐ 52638, score 94.62)
+3. [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (⭐ 26482, score 94.46)
 
 ### Productivity / Workflow
-1. [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents (⭐ 21665, score 100.25)
-2. [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (⭐ 33385, score 99.98)
-3. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration (⭐ 31200, score 99.68)
+1. [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents (⭐ 21666, score 100.25)
+2. [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (⭐ 33387, score 99.98)
+3. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration (⭐ 31202, score 99.68)
 4. [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection. (⭐ 21026, score 98.44)
-5. [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. (⭐ 24803, score 98.03)
-6. [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. (⭐ 27673, score 97.74)
-7. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections. (⭐ 32156, score 96.99)
-8. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (⭐ 27565, score 96.99)
+5. [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. (⭐ 24804, score 98.03)
+6. [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. (⭐ 27675, score 97.74)
+7. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections. (⭐ 32162, score 96.99)
+8. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (⭐ 27580, score 96.99)
 9. [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows (⭐ 20704, score 96.69)
 10. [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. (⭐ 11158, score 96.55)
 11. [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic. (⭐ 27811, score 95.01)
@@ -89,45 +89,53 @@ Generated by ai-frontier-monitor.
 ## Recent Events
 
 ### Score Spike Events
-- [multica-ai/multica](https://github.com/multica-ai/multica) - scoreΔ 2.92, starΔ 500
+- [multica-ai/multica](https://github.com/multica-ai/multica) - scoreΔ 2.91, starΔ 497
 
 ### Star Spike Events
-- [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - scoreΔ 0.32, starΔ 53
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - scoreΔ 0.31, starΔ 204
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - scoreΔ 0.31, starΔ 204
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - scoreΔ 0.24, starΔ 119
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - scoreΔ 0.34, starΔ 205
+- [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - scoreΔ 0.31, starΔ 51
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - scoreΔ 0.26, starΔ 137
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - scoreΔ 0.1, starΔ 58
 
 ### Release Events
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - scoreΔ 0.14, starΔ 28
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - scoreΔ 0.14, starΔ 26
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - scoreΔ 0.12, starΔ 25
-- [larksuite/cli](https://github.com/larksuite/cli) - scoreΔ 0.12, starΔ 21
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - scoreΔ 0.15, starΔ 17
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - scoreΔ 0.14, starΔ 24
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - scoreΔ 0.13, starΔ 25
+- [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) - scoreΔ 0.13, starΔ 25
 
 
 ## Extended Watchlists
 
 ### ai
 - min_score: 85.0 | min_new: 2 | avg_score: 91.64 | qualified_count: 125
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 (⭐ 154829)
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 (⭐ 154830)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows. (⭐ 146800)
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (⭐ 137232)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models (⭐ 134921)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (⭐ 133144)
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (⭐ 137237)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models (⭐ 134924)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (⭐ 133146)
 
 ### automation
 - min_score: 78.0 | min_new: 1 | avg_score: 89.07 | qualified_count: 170
-- none
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (⭐ 183544)
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (⭐ 137237)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (⭐ 52894)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (⭐ 45006)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications (⭐ 26684)
 
 ### biotech-health
 - min_score: 80.0 | min_new: 1 | avg_score: 89.62 | qualified_count: 161
-- none
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. (⭐ 28259)
+- [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging (⭐ 8062)
+- [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more. (⭐ 3982)
+- [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data (⭐ 3860)
+- [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API. (⭐ 1236)
 
 ### blockchain-web3
 - min_score: 80.0 | min_new: 1 | avg_score: 89.62 | qualified_count: 161
 - none
 
 ### crypto-data
-- min_score: 84.0 | min_new: 1 | avg_score: 91.25 | qualified_count: 132
+- min_score: 84.0 | min_new: 1 | avg_score: 91.26 | qualified_count: 132
 - none
 
 ### data
@@ -136,51 +144,59 @@ Generated by ai-frontier-monitor.
 
 ### devtools
 - min_score: 80.0 | min_new: 1 | avg_score: 89.62 | qualified_count: 161
-- none
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. (⭐ 38060)
+- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality. (⭐ 22207)
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac. (⭐ 9053)
+- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. (⭐ 8022)
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app (⭐ 6682)
 
 ### fintech
 - min_score: 82.0 | min_new: 1 | avg_score: 90.2 | qualified_count: 151
-- none
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (⭐ 42441)
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. (⭐ 14029)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics (⭐ 9524)
+- [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses (⭐ 8272)
+- [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js. (⭐ 7707)
 
 ### geo-spatial
-- min_score: 78.0 | min_new: 1 | avg_score: 89.06 | qualified_count: 170
+- min_score: 78.0 | min_new: 1 | avg_score: 89.07 | qualified_count: 170
 - none
 
 ### infra-cloud
 - min_score: 83.0 | min_new: 1 | avg_score: 90.87 | qualified_count: 139
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (⭐ 121659)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (⭐ 81960)
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams. (⭐ 78380)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐ 62645)
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (⭐ 60664)
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (⭐ 48120)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license. (⭐ 35836)
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. (⭐ 29412)
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. (⭐ 20073)
 
 ### mlops
 - min_score: 85.0 | min_new: 1 | avg_score: 91.64 | qualified_count: 125
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications. (⭐ 47243)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (⭐ 45006)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (⭐ 30242)
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (⭐ 26989)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (⭐ 30243)
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (⭐ 26990)
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. (⭐ 25282)
 
 ### news-intel
 - min_score: 83.0 | min_new: 1 | avg_score: 90.87 | qualified_count: 139
-- none
+- [bklieger-groq/stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) - StockBot powered by Groq: Lightning Fast AI Chatbot that Responds With Live Interactive Stock Charts, Financials, News, Screeners, and More. Powered by Llama3-70b on Groq, Vercel AI SDK, and TradingView Widgets. (⭐ 1457)
+- [DemonDamon/FinnewsHunter](https://github.com/DemonDamon/FinnewsHunter) - FinnewsHunter: Multi-agent financial intelligence platform powered by AgenticX. Real-time news analysis, sentiment fusion, and alpha factor mining. (⭐ 1392)
+- [Zdong104/FNSPID_Financial_News_Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset) - FNSPID: A Comprehensive Financial News Dataset in Time Series (⭐ 398)
+- [janlukasschroeder/realtime-newsapi](https://github.com/janlukasschroeder/realtime-newsapi) - Financial News Aggregator - Real Time & Query API for Financial News (⭐ 342)
+- [QuantML-C/AI-Kline](https://github.com/QuantML-C/AI-Kline) - Python-based stock analysis tool that combines traditional technical analysis with AI prediction capabilities.  Providing comprehensive stock analysis and forecasting using K-line charts, technical indicators, financial data, and news data. With CMD/WEB/MCP supported. (⭐ 321)
 
 ### quant
 - min_score: 88.0 | min_new: 1 | avg_score: 92.84 | qualified_count: 101
-- [visualHFT/VisualHFT](https://github.com/visualHFT/VisualHFT) - VisualHFT is a WPF/C# desktop GUI that shows market microstructure in real time. You can track advanced limit‑order‑book dynamics and execution quality, then use its modular plugins to shape the analysis to your workflow. (⭐ 1111)
-- [gjimzhou/MTH9879-Market-Microstructure-Models](https://github.com/gjimzhou/MTH9879-Market-Microstructure-Models) - A collection of homeworks of market microstructure models. (⭐ 284)
-- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kelly criterion sizing, signal calibration, React dashboard. (Highest profits $1.8k) (⭐ 110)
-- [fiquant/marketsimulator](https://github.com/fiquant/marketsimulator) - The project simulates a generic agent based	market model. The aim is to explore intimately, by simulation, the process of price formation and the market microstructure. (⭐ 69)
-- [bideeen/Building-A-Trading-Strategy-With-Python](https://github.com/bideeen/Building-A-Trading-Strategy-With-Python) - trading strategy is a fixed plan to go long or short in markets,  there are two common trading strategies: the momentum strategy and the reversion strategy. Firstly, the momentum strategy is also called divergence or trend trading. When you follow this strategy, you do so because you believe the movement of a quantity will continue in its current direction. Stated differently, you believe that stocks have momentum or upward or downward trends, that you can detect and exploit. Some examples of this strategy are the moving average crossover, the dual moving average crossover, and turtle trading:  The moving average crossover is when the price of an asset moves from one side of a moving average to the other. This crossover represents a change in momentum and can be used as a point of making the decision to enter or exit the market. You’ll see an example of this strategy, which is the “hello world” of quantitative trading later on in this tutorial. The dual moving average crossover occurs when a short-term average crosses a long-term average. This signal is used to identify that momentum is shifting in the direction of the short-term average. A buy signal is generated when the short-term average crosses the long-term average and rises above it, while a sell signal is triggered by a short-term average crossing long-term average and falling below it. Turtle trading is a popular trend following strategy that was initially taught by Richard Dennis. The basic strategy is to buy futures on a 20-day high and sell on a 20-day low.  Secondly, the reversion strategy, which is also known as convergence or cycle trading. This strategy departs from the belief that the movement of a quantity will eventually reverse. This might seem a little bit abstract, but will not be so anymore when you take the example. Take a look at the mean reversion strategy, where you actually believe that stocks return to their mean and that you can exploit when it deviates from that mean.  That already sounds a whole lot more practical, right?  Another example of this strategy, besides the mean reversion strategy, is the pairs trading mean-reversion, which is similar to the mean reversion strategy. Whereas the mean reversion strategy basically stated that stocks return to their mean, the pairs trading strategy extends this and states that if two stocks can be identified that have a relatively high correlation, the change in the difference in price between the two stocks can be used to signal trading events if one of the two moves out of correlation with the other. That means that if the correlation between two stocks has decreased, the stock with the higher price can be considered to be in a short position. It should be sold because the higher-priced stock will return to the mean. The lower-priced stock, on the other hand, will be in a long position because the price will rise as the correlation will return to normal.  Besides these two most frequent strategies, there are also other ones that you might come across once in a while, such as the forecasting strategy, which attempts to predict the direction or value of a stock, in this case, in subsequent future time periods based on certain historical factors. There’s also the High-Frequency Trading (HFT) strategy, which exploits the sub-millisecond market microstructure.  That’s all music for the future for now; Let’s focus on developing your first trading strategy for now!  A Simple Trading Strategy As you read above, you’ll start with the “hello world” of quantitative trading: the moving average crossover. The strategy that you’ll be developing is simple: you create two separate Simple Moving Averages (SMA) of a time series with differing lookback periods, let’s say, 40 days and 100 days. If the short moving average exceeds the long moving average then you go long, if the long moving average exceeds the short moving average then you exit.  Remember that when you go long, you think that the stock price will go up and will sell at a higher price in the future (= buy signal); When you go short, you sell your stock, expecting that you can buy it back at a lower price and realize a profit (= sell signal).  This simple strategy might seem quite complex when you’re just starting out, but let’s take this step by step:  First define your two different lookback periods: a short window and a long window. You set up two variables and assign one integer per variable. Make sure that the integer that you assign to the short window is shorter than the integer that you assign to the long window variable! Next, make an empty signals DataFrame, but do make sure to copy the index of your aapl data so that you can start calculating the daily buy or sell signal for your aapl data. Create a column in your empty signals DataFrame that is named signal and initialize it by setting the value for all rows in this column to 0.0. After the preparatory work, it’s time to create the set of short and long simple moving averages over the respective long and short time windows. Make use of the rolling() function to start your rolling window calculations: within the function, specify the window and the min_period, and set the center argument. In practice, this will result in a rolling() function to which you have passed either short_window or long_window, 1 as the minimum number of observations in the window that are required to have a value, and False, so that the labels are not set at the center of the window. Next, don’t forget to also chain the mean() function so that you calculate the rolling mean. After you have calculated the mean average of the short and long windows, you should create a signal when the short moving average crosses the long moving average, but only for the period greater than the shortest moving average window. In Python, this will result in a condition: signals['short_mavg'][short_window:] > signals['long_mavg'][short_window:]. Note that you add the [short_window:] to comply with the condition “only for the period greater than the shortest moving average window”. When the condition is true, the initialized value 0.0 in the signal column will be overwritten with 1.0. A “signal” is created! If the condition is false, the original value of 0.0 will be kept and no signal is generated. You use the NumPy where() function to set up this condition. Much the same like you read just now, the variable to which you assign this result is signals['signal'][short_window], because you only want to create signals for the period greater than the shortest moving average window! Lastly, you take the difference of the signals in order to generate actual trading orders. In other words, in this column of your signals DataFrame, you’ll be able to distinguish between long and short positions, whether you’re buying or selling stock. (⭐ 63)
+- [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python (⭐ 4048)
+- [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn (⭐ 1926)
+- [cvxgrp/cvxportfolio](https://github.com/cvxgrp/cvxportfolio) - Portfolio optimization and back-testing. (⭐ 1191)
+- [jankrepl/deepdow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning. (⭐ 1124)
+- [ryanfrigo/kalshi-ai-trading-bot](https://github.com/ryanfrigo/kalshi-ai-trading-bot) - 🤖 Advanced AI-powered trading system for Kalshi prediction markets. Features Grok-4 integration, multi-agent decision making, portfolio optimization, and real-time market analysis. Educational/research purposes only. (⭐ 352)
 
 ### search-knowledge
 - min_score: 80.0 | min_new: 1 | avg_score: 89.62 | qualified_count: 161
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine (⭐ 76493)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (⭐ 57074)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (⭐ 30243)
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (⭐ 28113)
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (⭐ 25577)
+- none
 
 ### security
 - min_score: 80.0 | min_new: 1 | avg_score: 89.62 | qualified_count: 161
